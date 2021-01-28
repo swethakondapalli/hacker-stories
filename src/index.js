@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import BookList from './BookList';
+// import Clock from './Clock';
 
 ReactDOM.render(
   <React.StrictMode>
